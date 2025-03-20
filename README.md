@@ -1,4 +1,4 @@
-## Day 38 Project:  Exercise Tracking with Python and Google Sheets
+##   Exercise Tracking with Python and Google Sheets
 
 ## Table of contents
 
